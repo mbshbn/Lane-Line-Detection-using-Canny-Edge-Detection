@@ -1,9 +1,11 @@
 # **Finding Lane Lines on the Road** 
 
+This project is based on the first project of the [self-driving car Nanodegree from Udacity]( https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * The output should be two solid lines, one for the right side, and the other for the left side
-This project is based on the first project of the [self-driving car Nanodegree from Udacity]( https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
 
 [//]: # (Image References)
 
