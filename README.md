@@ -39,7 +39,7 @@ import cv2
 1. Combining the original image and the output of the previous step using `cv2.addWeighted`.
 
 
-Here is the final result, showing the detcetd lines with the red color:
+Here is the final result, showing the detected lines with the red color:
 
 Image 1             |  Image 2
 :-------------------------:|:-------------------------:
