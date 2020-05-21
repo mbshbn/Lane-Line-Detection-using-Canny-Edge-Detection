@@ -1,6 +1,6 @@
 # **Finding Lane Lines on the Road** 
 
-This project is based on the [first project](https://github.com/udacity/CarND-LaneLines-P1) of the [self-driving car Nanodegree from Udacity]( https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+
 
 The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
@@ -72,3 +72,6 @@ Example 1             |  Example 2
 A possible improvement would be to considering higher-order polynomial lines, not only straight lines.
 
 Another potential improvement could be to considering different local signs on the ground to avoid being misled with them.
+
+
+This project is based on the [first project](https://github.com/udacity/CarND-LaneLines-P1) of the [self-driving car Nanodegree from Udacity]( https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
