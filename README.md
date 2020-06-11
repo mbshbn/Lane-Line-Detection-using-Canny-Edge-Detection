@@ -57,7 +57,7 @@ Video 1             |  Video 2
 
 ### Potential shortcomings with the current pipeline
 
-One potential shortcoming would happen when the line's curvature is large. This is overcome in another project called [Advanced Lane Line detection](https://github.com/mbshbn/CarND-Advanced-Lane-Lines) in my github repo.
+One potential shortcoming would happen when the line's curvature is large. This is overcome in another project called [Advanced Lane Line detection](https://github.com/mbshbn/Lane-Line-Detection-using-color-transform-and-gradient) in my github repo.
 
 Another shortcoming could be misled with different signs on the street that are ignored. For example the following lines:
 
@@ -69,10 +69,8 @@ Example 1             |  Example 2
 
 ### Possible improvements to the pipeline
 
-A possible improvement would be to considering higher-order polynomial lines, not only straight lines. 
+A possible improvement would be to considering higher-order polynomial lines, not only straight lines. Another potential improvement could be to considering different local signs on the ground to avoid being misled with them.
 
-Another potential improvement could be to considering different local signs on the ground to avoid being misled with them.
-
-These problems are addressed in the [Lane-Line-Detection-using-color-transform-and-gradient](https://github.com/mbshbn/Lane-Line-Detection-using-color-transform-and-gradient).
+These problems are addressed in the [Lane-Line-Detection-using-color-transform-and-gradient](https://github.com/mbshbn/Lane-Line-Detection-using-color-transform-and-gradient) in my github repo.
 
 This project is based on the [first project](https://github.com/udacity/CarND-LaneLines-P1) of the [self-driving car Nanodegree from Udacity]( https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
