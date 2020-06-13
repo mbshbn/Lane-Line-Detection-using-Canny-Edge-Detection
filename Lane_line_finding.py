@@ -161,10 +161,9 @@ def draw_lines(img, lines, color=[255, 0, 0], thickness=2):
     #plt.show()
 
 def Lane_Finding_Pipeline_image(image):
-    # NOTE: The output you return should be a color image (3 channel) for processing video below
-    # TODO: put your pipeline here,
-    # you should return the final output (image where lines are drawn on lanes)
-     # TODO: Build your pipeline that will draw lane lines on the test_images
+    # The final output is the image where lines are drawn on lanes
+    # The output is a color image (3 channel) for processing video
+
     gray = grayscale(image)
 
     # Define a kernel size and apply Gaussian smoothing
